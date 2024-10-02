@@ -1,0 +1,120 @@
+C:\Users\user\Documents\backend.Net\API Projects\Store.Repository\bin\Debug\net6.0\Store.Repository.deps.json
+C:\Users\user\Documents\backend.Net\API Projects\Store.Repository\bin\Debug\net6.0\Store.Repository.dll
+C:\Users\user\Documents\backend.Net\API Projects\Store.Repository\bin\Debug\net6.0\Store.Repository.pdb
+C:\Users\user\Documents\backend.Net\API Projects\Store.Repository\bin\Debug\net6.0\Store.Data.dll
+C:\Users\user\Documents\backend.Net\API Projects\Store.Repository\bin\Debug\net6.0\Store.Data.pdb
+C:\Users\user\Documents\backend.Net\API Projects\Store.Repository\obj\Debug\net6.0\Store.Repository.csproj.AssemblyReference.cache
+C:\Users\user\Documents\backend.Net\API Projects\Store.Repository\obj\Debug\net6.0\Store.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\backend.Net\API Projects\Store.Repository\obj\Debug\net6.0\Store.Repository.AssemblyInfoInputs.cache
+C:\Users\user\Documents\backend.Net\API Projects\Store.Repository\obj\Debug\net6.0\Store.Repository.AssemblyInfo.cs
+C:\Users\user\Documents\backend.Net\API Projects\Store.Repository\obj\Debug\net6.0\Store.Repository.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\backend.Net\API Projects\Store.Repository\obj\Debug\net6.0\Store.Re.0C98E3FA.Up2Date
+C:\Users\user\Documents\backend.Net\API Projects\Store.Repository\obj\Debug\net6.0\Store.Repository.dll
+C:\Users\user\Documents\backend.Net\API Projects\Store.Repository\obj\Debug\net6.0\refint\Store.Repository.dll
+C:\Users\user\Documents\backend.Net\API Projects\Store.Repository\obj\Debug\net6.0\Store.Repository.pdb
+C:\Users\user\Documents\backend.Net\API Projects\Store.Repository\obj\Debug\net6.0\ref\Store.Repository.dll
+C:\Users\user\Documents\backend.Net\API Project\Store.Repository\bin\Debug\net6.0\Store.Repository.deps.json
+C:\Users\user\Documents\backend.Net\API Project\Store.Repository\bin\Debug\net6.0\Store.Repository.dll
+C:\Users\user\Documents\backend.Net\API Project\Store.Repository\bin\Debug\net6.0\Store.Repository.pdb
+C:\Users\user\Documents\backend.Net\API Project\Store.Repository\bin\Debug\net6.0\Store.Data.dll
+C:\Users\user\Documents\backend.Net\API Project\Store.Repository\bin\Debug\net6.0\Store.Data.pdb
+C:\Users\user\Documents\backend.Net\API Project\Store.Repository\obj\Debug\net6.0\Store.Repository.csproj.AssemblyReference.cache
+C:\Users\user\Documents\backend.Net\API Project\Store.Repository\obj\Debug\net6.0\Store.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\backend.Net\API Project\Store.Repository\obj\Debug\net6.0\Store.Repository.AssemblyInfoInputs.cache
+C:\Users\user\Documents\backend.Net\API Project\Store.Repository\obj\Debug\net6.0\Store.Repository.AssemblyInfo.cs
+C:\Users\user\Documents\backend.Net\API Project\Store.Repository\obj\Debug\net6.0\Store.Repository.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\backend.Net\API Project\Store.Repository\obj\Debug\net6.0\Store.Re.0C98E3FA.Up2Date
+C:\Users\user\Documents\backend.Net\API Project\Store.Repository\obj\Debug\net6.0\Store.Repository.dll
+C:\Users\user\Documents\backend.Net\API Project\Store.Repository\obj\Debug\net6.0\refint\Store.Repository.dll
+C:\Users\user\Documents\backend.Net\API Project\Store.Repository\obj\Debug\net6.0\Store.Repository.pdb
+C:\Users\user\Documents\backend.Net\API Project\Store.Repository\obj\Debug\net6.0\ref\Store.Repository.dll
+C:\Users\user\Documents\backend.Net\API ProjectDemo3\Store.Repository\bin\Debug\net6.0\Store.Repository.deps.json
+C:\Users\user\Documents\backend.Net\API ProjectDemo3\Store.Repository\bin\Debug\net6.0\Store.Repository.dll
+C:\Users\user\Documents\backend.Net\API ProjectDemo3\Store.Repository\bin\Debug\net6.0\Store.Repository.pdb
+C:\Users\user\Documents\backend.Net\API ProjectDemo3\Store.Repository\bin\Debug\net6.0\Store.Data.dll
+C:\Users\user\Documents\backend.Net\API ProjectDemo3\Store.Repository\bin\Debug\net6.0\Store.Data.pdb
+C:\Users\user\Documents\backend.Net\API ProjectDemo3\Store.Repository\obj\Debug\net6.0\Store.Repository.csproj.AssemblyReference.cache
+C:\Users\user\Documents\backend.Net\API ProjectDemo3\Store.Repository\obj\Debug\net6.0\Store.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\backend.Net\API ProjectDemo3\Store.Repository\obj\Debug\net6.0\Store.Repository.AssemblyInfoInputs.cache
+C:\Users\user\Documents\backend.Net\API ProjectDemo3\Store.Repository\obj\Debug\net6.0\Store.Repository.AssemblyInfo.cs
+C:\Users\user\Documents\backend.Net\API ProjectDemo3\Store.Repository\obj\Debug\net6.0\Store.Repository.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\backend.Net\API ProjectDemo3\Store.Repository\obj\Debug\net6.0\Store.Re.0C98E3FA.Up2Date
+C:\Users\user\Documents\backend.Net\API ProjectDemo3\Store.Repository\obj\Debug\net6.0\Store.Repository.dll
+C:\Users\user\Documents\backend.Net\API ProjectDemo3\Store.Repository\obj\Debug\net6.0\refint\Store.Repository.dll
+C:\Users\user\Documents\backend.Net\API ProjectDemo3\Store.Repository\obj\Debug\net6.0\Store.Repository.pdb
+C:\Users\user\Documents\backend.Net\API ProjectDemo3\Store.Repository\obj\Debug\net6.0\ref\Store.Repository.dll
+C:\Users\user\Documents\backend.Net\API ProjectDemo4\Store.Repository\bin\Debug\net6.0\Store.Repository.deps.json
+C:\Users\user\Documents\backend.Net\API ProjectDemo4\Store.Repository\bin\Debug\net6.0\Store.Repository.dll
+C:\Users\user\Documents\backend.Net\API ProjectDemo4\Store.Repository\bin\Debug\net6.0\Store.Repository.pdb
+C:\Users\user\Documents\backend.Net\API ProjectDemo4\Store.Repository\bin\Debug\net6.0\Store.Data.dll
+C:\Users\user\Documents\backend.Net\API ProjectDemo4\Store.Repository\bin\Debug\net6.0\Store.Data.pdb
+C:\Users\user\Documents\backend.Net\API ProjectDemo4\Store.Repository\obj\Debug\net6.0\Store.Repository.csproj.AssemblyReference.cache
+C:\Users\user\Documents\backend.Net\API ProjectDemo4\Store.Repository\obj\Debug\net6.0\Store.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\backend.Net\API ProjectDemo4\Store.Repository\obj\Debug\net6.0\Store.Repository.AssemblyInfoInputs.cache
+C:\Users\user\Documents\backend.Net\API ProjectDemo4\Store.Repository\obj\Debug\net6.0\Store.Repository.AssemblyInfo.cs
+C:\Users\user\Documents\backend.Net\API ProjectDemo4\Store.Repository\obj\Debug\net6.0\Store.Repository.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\backend.Net\API ProjectDemo4\Store.Repository\obj\Debug\net6.0\Store.Re.0C98E3FA.Up2Date
+C:\Users\user\Documents\backend.Net\API ProjectDemo4\Store.Repository\obj\Debug\net6.0\Store.Repository.dll
+C:\Users\user\Documents\backend.Net\API ProjectDemo4\Store.Repository\obj\Debug\net6.0\refint\Store.Repository.dll
+C:\Users\user\Documents\backend.Net\API ProjectDemo4\Store.Repository\obj\Debug\net6.0\Store.Repository.pdb
+C:\Users\user\Documents\backend.Net\API ProjectDemo4\Store.Repository\obj\Debug\net6.0\ref\Store.Repository.dll
+C:\Users\shahd\Downloads\API Project5\API Project5\Store.Repository\bin\Debug\net6.0\Store.Repository.deps.json
+C:\Users\shahd\Downloads\API Project5\API Project5\Store.Repository\bin\Debug\net6.0\Store.Repository.dll
+C:\Users\shahd\Downloads\API Project5\API Project5\Store.Repository\bin\Debug\net6.0\Store.Repository.pdb
+C:\Users\shahd\Downloads\API Project5\API Project5\Store.Repository\bin\Debug\net6.0\Store.Data.dll
+C:\Users\shahd\Downloads\API Project5\API Project5\Store.Repository\bin\Debug\net6.0\Store.Data.pdb
+C:\Users\shahd\Downloads\API Project5\API Project5\Store.Repository\obj\Debug\net6.0\Store.Repository.csproj.AssemblyReference.cache
+C:\Users\shahd\Downloads\API Project5\API Project5\Store.Repository\obj\Debug\net6.0\Store.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shahd\Downloads\API Project5\API Project5\Store.Repository\obj\Debug\net6.0\Store.Repository.AssemblyInfoInputs.cache
+C:\Users\shahd\Downloads\API Project5\API Project5\Store.Repository\obj\Debug\net6.0\Store.Repository.AssemblyInfo.cs
+C:\Users\shahd\Downloads\API Project5\API Project5\Store.Repository\obj\Debug\net6.0\Store.Repository.csproj.CoreCompileInputs.cache
+C:\Users\shahd\Downloads\API Project5\API Project5\Store.Repository\obj\Debug\net6.0\Store.Repository.csproj.CopyComplete
+C:\Users\shahd\Downloads\API Project5\API Project5\Store.Repository\obj\Debug\net6.0\Store.Repository.dll
+C:\Users\shahd\Downloads\API Project5\API Project5\Store.Repository\obj\Debug\net6.0\refint\Store.Repository.dll
+C:\Users\shahd\Downloads\API Project5\API Project5\Store.Repository\obj\Debug\net6.0\Store.Repository.pdb
+C:\Users\shahd\Downloads\API Project5\API Project5\Store.Repository\obj\Debug\net6.0\ref\Store.Repository.dll
+C:\Users\AHMED\Documents\API Project55\API Project5\API Project5\Store.Repository\bin\Debug\net6.0\Store.Repository.deps.json
+C:\Users\AHMED\Documents\API Project55\API Project5\API Project5\Store.Repository\bin\Debug\net6.0\Store.Repository.dll
+C:\Users\AHMED\Documents\API Project55\API Project5\API Project5\Store.Repository\bin\Debug\net6.0\Store.Repository.pdb
+C:\Users\AHMED\Documents\API Project55\API Project5\API Project5\Store.Repository\bin\Debug\net6.0\Store.Data.dll
+C:\Users\AHMED\Documents\API Project55\API Project5\API Project5\Store.Repository\bin\Debug\net6.0\Store.Data.pdb
+C:\Users\AHMED\Documents\API Project55\API Project5\API Project5\Store.Repository\obj\Debug\net6.0\Store.Repository.csproj.AssemblyReference.cache
+C:\Users\AHMED\Documents\API Project55\API Project5\API Project5\Store.Repository\obj\Debug\net6.0\Store.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AHMED\Documents\API Project55\API Project5\API Project5\Store.Repository\obj\Debug\net6.0\Store.Repository.AssemblyInfoInputs.cache
+C:\Users\AHMED\Documents\API Project55\API Project5\API Project5\Store.Repository\obj\Debug\net6.0\Store.Repository.AssemblyInfo.cs
+C:\Users\AHMED\Documents\API Project55\API Project5\API Project5\Store.Repository\obj\Debug\net6.0\Store.Repository.csproj.CoreCompileInputs.cache
+C:\Users\AHMED\Documents\API Project55\API Project5\API Project5\Store.Repository\obj\Debug\net6.0\Store.Repository.csproj.CopyComplete
+C:\Users\AHMED\Documents\API Project55\API Project5\API Project5\Store.Repository\obj\Debug\net6.0\Store.Repository.dll
+C:\Users\AHMED\Documents\API Project55\API Project5\API Project5\Store.Repository\obj\Debug\net6.0\refint\Store.Repository.dll
+C:\Users\AHMED\Documents\API Project55\API Project5\API Project5\Store.Repository\obj\Debug\net6.0\Store.Repository.pdb
+C:\Users\AHMED\Documents\API Project55\API Project5\API Project5\Store.Repository\obj\Debug\net6.0\ref\Store.Repository.dll
+C:\Users\user\Downloads\API Project5\API Project5\Store.Repository\bin\Debug\net6.0\Store.Repository.deps.json
+C:\Users\user\Downloads\API Project5\API Project5\Store.Repository\bin\Debug\net6.0\Store.Repository.dll
+C:\Users\user\Downloads\API Project5\API Project5\Store.Repository\bin\Debug\net6.0\Store.Repository.pdb
+C:\Users\user\Downloads\API Project5\API Project5\Store.Repository\bin\Debug\net6.0\Store.Data.dll
+C:\Users\user\Downloads\API Project5\API Project5\Store.Repository\bin\Debug\net6.0\Store.Data.pdb
+C:\Users\user\Downloads\API Project5\API Project5\Store.Repository\obj\Debug\net6.0\Store.Repository.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\API Project5\API Project5\Store.Repository\obj\Debug\net6.0\Store.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Downloads\API Project5\API Project5\Store.Repository\obj\Debug\net6.0\Store.Repository.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\API Project5\API Project5\Store.Repository\obj\Debug\net6.0\Store.Repository.AssemblyInfo.cs
+C:\Users\user\Downloads\API Project5\API Project5\Store.Repository\obj\Debug\net6.0\Store.Repository.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\API Project5\API Project5\Store.Repository\obj\Debug\net6.0\Store.Re.0C98E3FA.Up2Date
+C:\Users\user\Downloads\API Project5\API Project5\Store.Repository\obj\Debug\net6.0\Store.Repository.dll
+C:\Users\user\Downloads\API Project5\API Project5\Store.Repository\obj\Debug\net6.0\refint\Store.Repository.dll
+C:\Users\user\Downloads\API Project5\API Project5\Store.Repository\obj\Debug\net6.0\Store.Repository.pdb
+C:\Users\user\Downloads\API Project5\API Project5\Store.Repository\obj\Debug\net6.0\ref\Store.Repository.dll
+C:\Users\user\Downloads\API ProjectDemo6\Store.Repository\bin\Debug\net6.0\Store.Repository.deps.json
+C:\Users\user\Downloads\API ProjectDemo6\Store.Repository\bin\Debug\net6.0\Store.Repository.dll
+C:\Users\user\Downloads\API ProjectDemo6\Store.Repository\bin\Debug\net6.0\Store.Repository.pdb
+C:\Users\user\Downloads\API ProjectDemo6\Store.Repository\bin\Debug\net6.0\Store.Data.dll
+C:\Users\user\Downloads\API ProjectDemo6\Store.Repository\bin\Debug\net6.0\Store.Data.pdb
+C:\Users\user\Downloads\API ProjectDemo6\Store.Repository\obj\Debug\net6.0\Store.Repository.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\API ProjectDemo6\Store.Repository\obj\Debug\net6.0\Store.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Downloads\API ProjectDemo6\Store.Repository\obj\Debug\net6.0\Store.Repository.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\API ProjectDemo6\Store.Repository\obj\Debug\net6.0\Store.Repository.AssemblyInfo.cs
+C:\Users\user\Downloads\API ProjectDemo6\Store.Repository\obj\Debug\net6.0\Store.Repository.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\API ProjectDemo6\Store.Repository\obj\Debug\net6.0\Store.Re.0C98E3FA.Up2Date
+C:\Users\user\Downloads\API ProjectDemo6\Store.Repository\obj\Debug\net6.0\Store.Repository.dll
+C:\Users\user\Downloads\API ProjectDemo6\Store.Repository\obj\Debug\net6.0\refint\Store.Repository.dll
+C:\Users\user\Downloads\API ProjectDemo6\Store.Repository\obj\Debug\net6.0\Store.Repository.pdb
+C:\Users\user\Downloads\API ProjectDemo6\Store.Repository\obj\Debug\net6.0\ref\Store.Repository.dll
